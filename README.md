@@ -1,6 +1,8 @@
 stats.js
 ========
 
+This library extends source library https://github.com/mrdoob/stats.js with 'fps' field inside of Stats exemplar.
+
 #### JavaScript Performance Monitor ####
 
 This class provides a simple info box that will help you monitor your code performance.
